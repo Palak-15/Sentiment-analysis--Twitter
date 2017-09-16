@@ -6,7 +6,7 @@ Sentiment analysis of tweets in twitter.
 * csv
 * os
 * textblob
-
+Output is stored in file (Senti)
 Use pip to install above dependencies.
 ```sh
 $ pip install tweepy
